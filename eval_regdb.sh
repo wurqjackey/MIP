@@ -1,0 +1,3 @@
+# RegDB
+
+python test.py --config_file configs/RegDB/vit_transreid_stride.yml MODEL.DEVICE_ID "('0')" OUTPUT_DIR 'logs/test_3' INPUT.AUG 2 INPUT.SIZE_TRAIN [256,128] INPUT.SIZE_TEST [256,128] MODEL.USE_PROMPT True MODEL.NUM_TOKEN 16 MODEL.USE_INS_PROMPT True MODEL.USE_INS_PROMPT_GEN True MODEL.NUM_INS_PMT_TOKEN 16 TEST.WEIGHT 'checkpoints/regdb.pth'

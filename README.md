@@ -22,7 +22,7 @@ bash eval_regdb.sh
 ### Checkpoint
 You can download our models trained on SYSU-MM01 and RegDB. <br>
 BaiduNetdisk: [[Checkpoints]](https://pan.baidu.com/s/1XOzA05ADSfiTaeHAj4sDsA) Code: m312 <br>
-BaiduNetdisk: [[Checkpoints]](https://drive.google.com/drive/folders/1MUawaVku45vviDrxh9rJtshDEL2oCi6C?usp=sharing)
+GoogleDrive: [[Checkpoints]](https://drive.google.com/drive/folders/1MUawaVku45vviDrxh9rJtshDEL2oCi6C?usp=sharing)
 
 ## Acknowledgement
 So much thanks for codebase from [TransReID](https://github.com/damo-cv/TransReID).

@@ -2,8 +2,7 @@
 ICMR 2024 Oral | Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning
 
 ## Project home
-MIP: Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning
-https://wurqjackey.github.io/ICMR2024_MIP/
+[MIP: Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning](https://wurqjackey.github.io/ICMR2024_MIP/)
 
 
 ## Install
@@ -15,10 +14,15 @@ This code is based on the [TransReID](https://github.com/damo-cv/TransReID) proj
 bash train.sh
 ```
 
-### Eval
+### Evaluation
 ```
-bash eval.sh
+bash eval_sysu.sh
+bash eval_regdb.sh
 ```
+### Checkpoint
+You can download our models trained on SYSU-MM01 and RegDB. <br>
+BaiduNetdisk: [[Checkpoints]](https://pan.baidu.com/s/1XOzA05ADSfiTaeHAj4sDsA) Code: m312 <br>
+BaiduNetdisk: [[Checkpoints]](https://drive.google.com/drive/folders/1MUawaVku45vviDrxh9rJtshDEL2oCi6C?usp=sharing)
 
 ## Acknowledgement
 So much thanks for codebase from [TransReID](https://github.com/damo-cv/TransReID).

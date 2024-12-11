@@ -5,7 +5,9 @@ ICMR 2024 Oral | Enhancing Visible-Infrared Person Re-identification with Modali
 [MIP: Modality- and Instance-aware Visual Prompt Learning](https://wurqjackey.github.io/ICMR2024_MIP/)
 
 ## Paper
-[Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning](https://dl.acm.org/doi/10.1145/3652583.3658109)
+Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning<br>
+[[ACM Digital Library](https://dl.acm.org/doi/10.1145/3652583.3658109)]
+[[arXiv](https://arxiv.org/abs/2406.12316)]
 
 ## Install
 This code is based on the [TransReID](https://github.com/damo-cv/TransReID) project. Please Refer to [README_TransReID.md](https://wurqjackey.github.io/MIP/README_TransReID.md).
@@ -23,8 +25,8 @@ bash eval_regdb.sh
 ```
 ### Checkpoint
 You can download our models trained on SYSU-MM01 and RegDB. <br>
-BaiduNetdisk: [[Checkpoints]](https://pan.baidu.com/s/1XOzA05ADSfiTaeHAj4sDsA) (code: m312) <br>
-GoogleDrive: [[Checkpoints]](https://drive.google.com/drive/folders/1MUawaVku45vviDrxh9rJtshDEL2oCi6C?usp=sharing)
+BaiduNetdisk: [[Checkpoints](https://pan.baidu.com/s/1XOzA05ADSfiTaeHAj4sDsA)] (code: m312) <br>
+GoogleDrive: [[Checkpoints](https://drive.google.com/drive/folders/1MUawaVku45vviDrxh9rJtshDEL2oCi6C?usp=sharing)]
 
 ## Acknowledgement
 So much thanks for codebase from [TransReID](https://github.com/damo-cv/TransReID).

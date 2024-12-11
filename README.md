@@ -2,8 +2,10 @@
 ICMR 2024 Oral | Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning
 
 ## Project home
-[MIP: Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning](https://wurqjackey.github.io/ICMR2024_MIP/)
+[MIP: Modality- and Instance-aware Visual Prompt Learning](https://wurqjackey.github.io/ICMR2024_MIP/)
 
+## Paper
+[Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning](https://dl.acm.org/doi/10.1145/3652583.3658109)
 
 ## Install
 This code is based on the [TransReID](https://github.com/damo-cv/TransReID) project. Please Refer to [README_TransReID.md](https://wurqjackey.github.io/MIP/README_TransReID.md).

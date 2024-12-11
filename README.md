@@ -5,7 +5,7 @@ ICMR 2024 Oral | Enhancing Visible-Infrared Person Re-identification with Modali
 [MIP: Modality- and Instance-aware Visual Prompt Learning](https://wurqjackey.github.io/ICMR2024_MIP/)
 
 ## Paper
-Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning<br>
+<!-- Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning<br> -->
 [[ACM Digital Library](https://dl.acm.org/doi/10.1145/3652583.3658109)]
 [[arXiv](https://arxiv.org/abs/2406.12316)]
 

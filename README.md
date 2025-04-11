@@ -1,5 +1,5 @@
 # MIP: Modality- and Instance-aware Visual Prompts Network
-IEEE TVSVT 2025 | Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Adaptation Learning
+IEEE TVSVT 2025 | Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Adaptation Learning <br>
 ICMR 2024 Oral | Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning
 
 ## Project home

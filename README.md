@@ -35,6 +35,19 @@ So much thanks for codebase from [TransReID](https://github.com/damo-cv/TransReI
 ## Reference
 If you find this code useful for your research, please cite our paper.
 ```
+@ARTICLE{10.1109/TCSVT.2025.3560118,
+  author={Wu, Ruiqi and Jiao, Bingliang and Liu, Meng and Wang, Shining and Wang, Wenxuan and Wang, Peng},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Adaptation Learning}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Visible-Infrared Person Re-Identification;Cross-Modality Person Re-Identification;Visual Prompt Learning},
+  doi={10.1109/TCSVT.2025.3560118}}
+```
+or <br>
+```
 @inproceedings{10.1145/3652583.3658109,
 author = {Wu, Ruiqi and Jiao, Bingliang and Wang, Wenxuan and Liu, Meng and Wang, Peng},
 title = {Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning},
